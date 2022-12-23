@@ -35,8 +35,8 @@ BOJ 1300 K번째 수
 ## 💡 백준
 | 인덱스 |   날짜   |문제|난이도| 풀이  |
 |:---:|:------:|:---:|:---:|:---:|
-|  1  | 221222 |(BOJ 2206 벽 부수고 이동하기)[https://www.acmicpc.net/problem/2206]|G3|(풀이)[https://github.com/DGU-ICE-Crew/Algorithm/blob/main/BOJ/BOJ_2206.md]|
-|2|221223|(BOJ 1253 좋다)[https://www.acmicpc.net/problem/1253]|G4|(풀이)[https://github.com/DGU-ICE-Crew/Algorithm/blob/main/BOJ/BOJ_1253.md]|
+|  1  | 221222 |[BOJ 2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|G3|[풀이](https://github.com/DGU-ICE-Crew/Algorithm/blob/main/BOJ/BOJ_2206.md)|
+|2|221223|[BOJ 1253 좋다](https://www.acmicpc.net/problem/1253)|G4|[풀이](https://github.com/DGU-ICE-Crew/Algorithm/blob/main/BOJ/BOJ_1253.md)|
 
 ## 💡 프로그래머스
 |인덱스|날짜|                                    문제                                     |난이도|   풀이   |
