@@ -38,7 +38,7 @@ BOJ 1300 K번째 수
 |  1  | 221222 |[BOJ 2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|G3|[풀이](https://github.com/DGU-ICE-Crew/Algorithm/blob/main/BOJ/BOJ_2206.md)|
 |2|221223|[BOJ 1253 좋다](https://www.acmicpc.net/problem/1253)|G4|[풀이](https://github.com/DGU-ICE-Crew/Algorithm/blob/main/BOJ/BOJ_1253.md)|
 |3|221226|[BOJ 1976 여행가자](https://www.acmicpc.net/problem/1976)|G4|[풀이](https://github.com/DGU-ICE-Crew/Algorithm/blob/main/BOJ/BOJ_1976.md)|
-|4|221227|[BOJ 13144 List of Unique Numbers](https://www.acmicpc.net/problem/13144)|G4|[풀이]()|
+|4|221227|[BOJ 13144 List of Unique Numbers](https://www.acmicpc.net/problem/13144)|G4|[풀이](https://github.com/DGU-ICE-Crew/Algorithm/blob/main/BOJ/BOJ_13144.md)|
 |5|221229|[BOJ 7490 0 만들기](https://www.acmicpc.net/problem/7490)|G5|[풀이]()|
 |6|221230|[BOJ 2531 회전초밥](https://www.acmicpc.net/problem/2531)|S1|[풀이]()|
 
