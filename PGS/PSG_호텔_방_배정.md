@@ -5,7 +5,7 @@
 - 용태 : [PGS 호텔 방 배정](https://github.com/smc2315/algorithm/blob/main/PGS/%ED%98%B8%ED%85%94%20%EB%B0%A9%20%EB%B0%B0%EC%A0%95.cpp)
 - 상준 : [PGS 호텔 방 배벙](https://github.com/sangjun0412/codingTest_base/blob/main/(kakao)%ED%98%B8%ED%85%94%EB%B0%A9%EB%B0%B0%EC%A0%95.py)
 - 진원 : []()
-- 원석 : []()
+- 원석 : [PGS 호텔 방 배정](https://github.com/WonSeok-dd/codingTest/blob/master/pog/L4/L4_%ED%98%B8%ED%85%94%EB%B0%A9%20%EB%B0%B0%EC%A0%95.py)
 ## 핵심
   - union-find
   - c++ unordered_map의 find는 O(1)
