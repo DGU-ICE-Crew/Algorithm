@@ -40,7 +40,7 @@ BOJ 1300 K번째 수
 |3|221226|[BOJ 1976 여행가자](https://www.acmicpc.net/problem/1976)|G4|[풀이](https://github.com/DGU-ICE-Crew/Algorithm/blob/main/BOJ/BOJ_1976.md)|
 |4|221227|[BOJ 13144 List of Unique Numbers](https://www.acmicpc.net/problem/13144)|G4|[풀이](https://github.com/DGU-ICE-Crew/Algorithm/blob/main/BOJ/BOJ_13144.md)|
 |5|221229|[BOJ 7490 0 만들기](https://www.acmicpc.net/problem/7490)|G5|[풀이](https://github.com/DGU-ICE-Crew/Algorithm/blob/main/BOJ/BOJ_7490.md)|
-|6|221230|[BOJ 2531 회전 초밥](https://www.acmicpc.net/problem/2531)|S1|[풀이]()|
+|6|221230|[BOJ 2531 회전 초밥](https://www.acmicpc.net/problem/2531)|S1|[풀이](https://github.com/DGU-ICE-Crew/Algorithm/blob/main/BOJ/BOJ_2531.md)|
 |7|230102|[BOJ 16235 나무 재테크](https://www.acmicpc.net/problem/16235)|G3|[풀이]()|
 |8|230103|[BOJ 2225 합분해](https://www.acmicpc.net/problem/2225)|G5|[풀이]()|
 |9|230105|[BOJ 14442 벽 부수고 이동하기2](https://www.acmicpc.net/problem/14442)|G3|[풀이]()|
