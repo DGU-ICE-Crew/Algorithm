@@ -51,7 +51,7 @@ BOJ 1300 K번째 수
 |:---:|:---:|:-------------------------------------------------------------------------|:---:|:------:|
 |1|221221| [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) |L3| [풀이](https://github.com/DGU-ICE-Crew/Algorithm/blob/main/PGS/PGS_%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90.md) |
 |2|221228|[호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)|L4|[풀이](https://github.com/DGU-ICE-Crew/Algorithm/blob/main/PGS/PSG_%ED%98%B8%ED%85%94_%EB%B0%A9_%EB%B0%B0%EC%A0%95.md)|
-|3|221231|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|L2|[]()|
+|3|221231|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|L2|[풀이](https://github.com/DGU-ICE-Crew/Algorithm/blob/main/PGS/PGS_%ED%8A%9C%ED%94%8C.md)|
 |4|230104|[셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)|L3|[]()|
 |5|230107|[보석쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)|L3|[]()|
 
